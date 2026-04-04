@@ -1,11 +1,26 @@
-## Phase 2 – Prototype
+# AI-Powered Gig Income Protection
 
-This phase includes a working prototype of the system:
+##  Problem
+Delivery workers lose income during extreme weather conditions like heavy rain and heat.
 
+##  Solution
+We built a smart micro-insurance system that automatically compensates workers when weather affects their income.
+
+## ⚙️ Features
 - User Registration
-- Plan Selection
-- Real-time Weather Detection (API)
-- Automated Claim Trigger
-- Simulated Payout System
+- Plan Selection (Basic, Standard, Premium)
+- Real-time Weather Detection
+- Automated Claim System
+- Instant Payout Simulation
 
-The system uses React for frontend and Node.js for backend.
+## Architecture
+![Architecture](architecture.png)
+
+##  Tech Stack
+- Frontend: React.js
+- Backend: Node.js, Express
+- API: Open-Meteo Weather API
+
+##  How to Run
+
+### Backend
