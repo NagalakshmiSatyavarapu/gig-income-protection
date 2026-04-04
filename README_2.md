@@ -21,6 +21,10 @@ We built a smart micro-insurance system that automatically compensates workers w
 - Backend: Node.js, Express
 - API: Open-Meteo Weather API
 
-##  How to Run
+##  Demo
+[(Add your video link here)](https://drive.google.com/file/d/1H_OQUpjO3tQnls02BrglkmM3PtB6MLO6/view?usp=sharing)
 
-### Backend
+##  Future Scope
+- Real payment integration
+- AI-based risk prediction
+- Mobile application
